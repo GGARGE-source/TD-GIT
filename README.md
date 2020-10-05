@@ -1,4 +1,4 @@
-﻿# Mon oeuvre d'art surréaliste :pencil2:
+# Mon oeuvre d'art surréaliste :pencil2: :milky_way:
 Ceci est un readme
 Ceci est un lisez moi
 J'écris comme un surréaliste.
